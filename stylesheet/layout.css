@@ -542,7 +542,6 @@ section:nth-of-type(6) img {
 }
 .текст p:nth-of-type(1){
     font-family: Halvar Breitschrift_Regular;
-    position: absolute;
     color: white;
     font-size: 93.03px;
     margin-left: -419px;
@@ -550,19 +549,17 @@ section:nth-of-type(6) img {
 }
 .текст p:nth-of-type(2){
     font-family: Halvar Breitschrift_Regular;
-    position: absolute;
     color: white;
     font-size: 93.03px;
-    margin-left: -268px;
-    margin-top: -834px;
+    margin-left: -283px;
+    margin-top: 34px;
 }
 .текст p:nth-of-type(3){
     font-family: Halvar Breitschrift_Regular;
-    position: absolute;
     color: white;
     font-size: 93.03px;
-    margin-left: -414px;
-    margin-top: -709px;
+    margin-left: -408px;
+    margin-top: 27px;
 }
 .последний {
     height: 1874.13px;
